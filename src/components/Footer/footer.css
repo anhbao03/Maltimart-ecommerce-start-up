@@ -1,0 +1,34 @@
+
+.blue-text{
+    color: blue;
+    
+}
+.footer{
+    background: var(--primary-color);
+    margin-top: 40px;
+}
+.footer_text{
+    font-style: italic;
+    font-size: 12px;
+    width: 70%;
+    color:rgb(255, 255, 255,0.735)
+}
+.footer_quick-link ul li {
+    background: transparent !important;
+}
+    
+    .footer_quick-link ul li a {
+    color:rgb(255, 255, 255,0.735)
+    }
+    
+    .quick_link-title {
+    margin-bottom: 20px;
+    color:#fff;
+    font-size: 1.1rem;
+    }
+    .color{
+        color:rgb(255, 255, 255,0.735)
+    }
+    .pad-t-16{
+        padding: 16px;
+    }
